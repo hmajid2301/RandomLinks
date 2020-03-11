@@ -13,3 +13,4 @@ This project contains useful links to interesting websites.
 | JWT                | JWT explanation and decoder                   | [JWT](https://jwt.io/)                                                |
 | Table Editor       | Creates tables in different formats           | [Table Editor](https://truben.no/table/)                              |
 | Material Design    | Material design explained                     | [Material Design](https://material.io)                                |                         
+| Online Photoshop   | An online photoshop editor                    | [Photopea](https://www.photopea.com/)
